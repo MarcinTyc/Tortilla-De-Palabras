@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from '../assets/logo.svg';
 import './App.css';
 
 function App() {
@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <h1>{2 + 2} </h1>
       </header>
     </div>
   );
